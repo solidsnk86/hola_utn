@@ -26,5 +26,6 @@ git push --tags
 git push origin --tags
 ```
 Este comando envía todas las etiquetas locales que no existen en el remoto.
-No elimina etiquetas del remoto que ya no existen en local.
+No elimina etiquetas del remoto que ya no existen en local
+
 Es útil después de crear nuevas etiquetas localmente.
